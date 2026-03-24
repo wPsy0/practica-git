@@ -1,2 +1,1 @@
-# practica-git
-Repositorio publico de practica.
+Hola Mundo!
